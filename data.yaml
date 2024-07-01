@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 16
+names: ['Armario', 'Bote de Basura', 'Cama', 'Ducha', 'Electrodomestico', 'Escaleras', 'Lavamanos', 'Lavaplatos', 'Matera', 'Mesa', 'Otro Obstaculo', 'Persona', 'Puerta', 'Sanitario', 'Silla', 'Ventana']
